@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+
+    .header__right {
+        display: flex;
+        align-items: center;
+    }
+
+    .header__navigations {
+        margin-right: 20px;
+    }
+}
