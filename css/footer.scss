@@ -1,0 +1,25 @@
+.footer {
+    width: 960px;
+    height: 200px;
+    margin: 50px auto;
+
+    .footer__company-name {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .footer__copy-right {
+        color: #ddd;
+        font-style: italic;
+        font-size: 12px;
+    }
+
+    .footer__title {
+        margin-bottom: 10px;
+    }
+
+    .footer__link {
+        display: block;
+        color: #666;
+    }
+}
